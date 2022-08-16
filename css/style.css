@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    background:url("../img/wallpaperflare.com_wallpaper.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: Tahoma;
+    line-height: 1.5 ;
+    font-size: 18p;
+    width: auto;
+    height: auto;
+    
+}
+
+.card{
+    width: 400px;
+    margin: 30px auto;
+    background: url(../img/4907157.jpg);
+    box-shadow: :0 5px 10px #ccc;
+    border-radius: 20px;
+    padding: 10px;
+}
+.card-photo{
+    display: block;
+    width: 270px;
+    height: 350px;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: #589393; 
+}
+.card-text{
+    font-size: 13px;
+    
+}
+.card-subtitle{
+    font-size: 20px;
+    color: red;
+}
+card-list {
+    padding-left: 10px;
+    list-style-position:outside;
+    font-size:15px;
+}
